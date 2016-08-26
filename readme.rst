@@ -141,4 +141,4 @@ When your unit tests are green, it's time to run Behat_ again. They will show yo
 
     bin/behat
 
-If that's the case, you're done: Send its result to your customer and release!
+If that's the case, you're done: Send its result to your customer and release!majid
